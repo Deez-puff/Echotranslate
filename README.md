@@ -1,29 +1,44 @@
-# Echotranslate
-a responsive language translation web app that converts text across languages in real time. Created using core web technologies and API integration, it focuses on simplicity, speed, and accuracy.
+# EchoTranslate
+
+EchoTranslate is a web-based language translation application that enables real-time text translation across multiple languages. The project is built using HTML, CSS, and JavaScript and integrates a translation API to provide accurate, fast, and user-friendly multilingual communication.
+
+---
 
 ## Features
 
-- Translate text between multiple languages
-- real-time translation using API integration
-- Clean and responsive user interface
-- Easy language selection
-- Works seamlessly across devices
+- Real-time text translation across multiple languages  
+- Simple and intuitive user interface  
+- API-driven translation for speed and accuracy  
+- Responsive design for desktop and mobile devices  
+- Lightweight and efficient implementation  
 
 ---
 
-## Tech Stack
+## Technology Stack
 
-- **HTML5** – Structure and layout  
-- **CSS3** – Styling and responsiveness  
-- **JavaScript (ES6)** – Logic and API handling  
-- **Translation API** – Real-time language translation  
+- HTML5 – Application structure  
+- CSS3 – Styling and responsive layout  
+- JavaScript (ES6) – Application logic and API integration  
+- Translation API – Real-time language processing  
 
 ---
 
-## Preview
+## Application Workflow
 
-> Add screenshots or a demo GIF here to showcase your project.
+1. User enters text in the input field  
+2. Selects the source and target languages  
+3. JavaScript sends a request to the translation API  
+4. The API processes and returns the translated text  
+5. The translated output is displayed instantly  
 
-```text
-Example:
- /assets/preview.png
+---
+
+## Project Structure
+
+```bash
+EchoTranslate/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
