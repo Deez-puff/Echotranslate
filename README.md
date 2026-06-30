@@ -1,3 +1,49 @@
+# EchoTranslate
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![API](https://img.shields.io/badge/Translation%20API-4285F4?style=for-the-badge&logo=googletranslate&logoColor=white)
+
+EchoTranslate is a web-based language translation application that enables fast, real-time text translation across multiple languages. Built with HTML, CSS, and JavaScript, it integrates with a translation API to deliver accurate and accessible multilingual communication through a clean, responsive interface.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technology Stack](#technology-stack)
+- [Project Structure](#project-structure)
+- [Application Workflow](#application-workflow)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- **Real-time translation** — Instantly translates text across multiple supported languages
+- **Intuitive interface** — Clean, minimal UI designed for ease of use
+- **API-driven accuracy** — Leverages a translation API for fast, reliable results
+- **Responsive design** — Fully optimized for both desktop and mobile devices
+- **Lightweight footprint** — No unnecessary dependencies or overhead
+
+## Technology Stack
+
+| Layer | Technology | Purpose |
+|-------|-----------|---------|
+| Structure | HTML5 | Application markup and layout |
+| Styling | CSS3 | Visual design and responsive behavior |
+| Logic | JavaScript (ES6) | Application logic and API integration |
+| Data | Translation API | Real-time language processing |
+
+## Project Structure
+EchoTranslate/
+│
+├── index.html      # Main application markup
+├── style.css       # Application styling and layout
+├── script.js       # Core logic and API integration
+└── README.md       # Project documentation
+
 ## Application Workflow
 
 1. The user enters text into the input field.
@@ -54,3 +100,4 @@ Contributions are welcome. To contribute:
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+The badges use sh
